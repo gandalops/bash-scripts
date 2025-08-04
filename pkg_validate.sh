@@ -2,7 +2,7 @@
 
 # Date: 26th July 2025              #Author: Yogesh
 
-#shell script to install pkgs like docker nginx ansible and so on
+#shell script to validate pkgs like docker nginx ansible and so on available on host machine
 clear
 
 # 1st - take pkg name from cmd line, if no pkg name provided then give help or usgae guidance
